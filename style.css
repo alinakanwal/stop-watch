@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#stopwatch{
+    margin-top: 30vh;
+    margin-left: 80vh;
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 230px;
+    border-radius: 4px;
+}
+#timer{
+    font-size: 50px;
+   
+}
+button{
+    margin-top: 20px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size:15px;
+
+}
+#startbutton{
+    background-color:#28A745;
+}
+#stopbutton{
+    background-color:rgb(255, 193,7);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#restartbutton{
+    background-color:rgb(220, 53, 69);
+}
+h1{
+    padding-top: 20px;
+}
